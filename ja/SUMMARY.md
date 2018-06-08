@@ -1,4 +1,3 @@
-# Summary
 * [目次](README.md)
 
 ### [1. Railsの環境と設定](part1)
@@ -182,7 +181,7 @@
   * [辞書ファイルを作成する](part5)
   * [デフォルトのロケールを設定する](part5)
   * [辞書ファイルを参照する](part5)
-  
+
 ### [7. ActionMailerについて](part4)
 
 ### [8. ActiveJobについて](part4)

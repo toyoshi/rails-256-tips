@@ -1,5 +1,4 @@
-# Summary
-* [目次](README.md)
+# 目次
 
 ### [1. Railsの環境と設定](part1)
 
